@@ -2,3 +2,7 @@ div {
     width: fit-content;
     margin:auto;
 }
+
+body {
+    font-family: cursive; background-color: snow;
+}
