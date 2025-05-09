@@ -18,15 +18,15 @@ margin: 0;
 
 @font-face {
     font-family: 'TerminusFont';
-    src: url('TerminusTTF-4.49.3.woff2');
+    src: url('main/fonts/TerminusTTF-4.49.3.woff2');
 }
 
 @font-face {
     font-family: 'TerminusFontBold';
-    src: url('TerminusTTF-Bold-4.49.3.woff2');
+    src: url('main/fonts/TerminusTTF-Bold-4.49.3.woff2');
 }
 
 @font-face {
     font-family: 'SheikahFont';
-    src: url('sheikah-complete.otf.woff2');
+    src: url('main/fonts/sheikah-complete.otf.woff2');
 }
