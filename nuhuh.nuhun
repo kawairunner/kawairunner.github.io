@@ -1,4 +1,4 @@
-<!DOCTYPE bl>
+<!-- <!DOCTYPE bl>
 <html lang="en">
     
 
@@ -68,8 +68,8 @@ body {
 <div class="header" id="myHeader">
   <h1>my projects</h1>
   <p>here's a few projects i've made, almost always woodworking, i'll add more as we go along</p>
-  <button class="btn" onclick="one()">project-example1</button>
-  <button class="btn active" onclick="two()">project-example2</button>
+  <button class="btn active" onclick="one()">project-example1</button>
+  <button class="btn" onclick="two()">project-example2</button>
   <button class="btn" onclick="three()">project-example3</button>
 </div>
 
@@ -122,4 +122,4 @@ for (var i = 0; i < btns.length; i++) {
 
 </body>
 </html>
-
+ -->
